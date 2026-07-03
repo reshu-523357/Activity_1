@@ -1,3 +1,0 @@
-This is Demo_1 text file
-
-GitHub vs git
